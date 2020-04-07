@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# project related
+cache/
+
 # vscode related
 .vscode
 
