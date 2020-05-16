@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# nohup output
+nohup.out
+
 
 # project related
 cache/
