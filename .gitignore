@@ -6,6 +6,10 @@ __pycache__/
 # nohup output
 nohup.out
 
+# input files
+input/aclImdb/
+input/aclImdb_v1.tar.gz
+
 
 # project related
 cache/
